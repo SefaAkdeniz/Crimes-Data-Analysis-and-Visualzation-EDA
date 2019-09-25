@@ -12,9 +12,10 @@
 <b>Content:</b>
 <ol>
  <li>Missingo - Missing Data</li>
+ <li>Data Cleaning</li>
  <li>Seaborn - Count Plot</li>
  <li>Seaborn - Bar Plot</li>
- <li>Plotly - 2D Histograms</li>
+ <li>Plotly - 2D Histogram</li>
  <li>Plotly - Donut Chart</li>
  <li>Plotly - Map Box</li>
  <li>Word Cloud</li>
