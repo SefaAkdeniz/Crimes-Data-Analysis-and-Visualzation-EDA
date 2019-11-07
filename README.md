@@ -8,6 +8,7 @@
  <li>Seaborn</li>
  <li>Plotly</li>
  <li>Missingno</li>
+ <li>Folium</li>
 </ol>
 <b>Content:</b>
 <ol>
@@ -18,6 +19,7 @@
  <li>Plotly - 2D Histogram</li>
  <li>Plotly - Donut Chart</li>
  <li>Plotly - Map Box</li>
+ <li>Folium - Map</li>
  <li>Word Cloud</li>
 </ol>
 <b>Kaggle Url 👉🏻 <a href="https://www.kaggle.com/kernels/scriptcontent/20912028/notebook">Crimes Data Analysis and Visualzation (EDA)
